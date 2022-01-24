@@ -62,7 +62,7 @@ pyrsistent @ file:///C:/ci/pyrsistent_1636111468851/work
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 pytz==2021.3
 pyviz-comms==2.1.0
-#pywin32==302
+pywin32==302
 pywinpty==0.5.7
 PyYAML==6.0
 pyzmq @ file:///C:/ci/pyzmq_1638435185959/work
@@ -70,7 +70,7 @@ requests==2.27.1
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
 six @ file:///tmp/build/80754af9/six_1623709665295/work
 sniffio==1.2.0
-#terminado==0.9.4
+terminado==0.9.4
 testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
 tornado @ file:///C:/ci/tornado_1606942392901/work
 tqdm==4.62.3
